@@ -6,7 +6,7 @@ Cryptography is all about the art of creating and decoding secret messages, call
 In this challenge, you'll work with a pair to refactor some existing cryptography code to make it more readable and follow Ruby best practices. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
 
 ## Release 0: Run the code
-Run the code in [my_solution.rb](my_solution.rb) and see what the expected output is.
+Run the code in [cipher.rb](cipher.rb) and see what the expected output is.
 
 ## Release 1:  Comment the code
 Write comments next to or above each line in the [my_solution.rb](my_solution.rb) file with an explanation.
